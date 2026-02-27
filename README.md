@@ -2,8 +2,6 @@
 
 Welcome to my data science portfolio! This site showcases hands-on projects in Python, SQL, and data visualization, built using tools like Google Colab, Power BI, and Tableau.
 
-🔗 **Live Website**: [Visit my GitHub Pages site](https://abegyaberhanu.github.io/Abby-s_Portfolio/)
-
 ## 📊 Featured Projects
 
 - **Model Building & Classification**
