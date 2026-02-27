@@ -1,4 +1,4 @@
-# Abegya Berhanu — Data Science Portfolio
+# Data Science Portfolio
 
 Welcome to my data science portfolio! This site showcases hands-on projects in Python, SQL, and data visualization, built using tools like Google Colab, Power BI, and Tableau.
 
